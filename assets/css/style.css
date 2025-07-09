@@ -1,5 +1,9 @@
 body {
     background-color: blueviolet;
+    background-image: url("../images/redcurtains.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     font-family: "Raleway", sans-serif;
     color: #a5b7c7;
     text-align: center;
